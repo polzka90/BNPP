@@ -1,0 +1,4 @@
+C:\PrivateWorkSpace\BNPP\BNPP.UI\bin\Debug\netcoreapp3.1\BNPP.Domain.dll
+C:\PrivateWorkSpace\BNPP\BNPP.UI\obj\Debug\netcoreapp3.1\BNPP.UI.csprojAssemblyReference.cache
+C:\PrivateWorkSpace\BNPP\BNPP.UI\obj\Debug\netcoreapp3.1\BNPP.UI.AssemblyInfoInputs.cache
+C:\PrivateWorkSpace\BNPP\BNPP.UI\obj\Debug\netcoreapp3.1\BNPP.UI.AssemblyInfo.cs

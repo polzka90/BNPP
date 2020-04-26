@@ -1,0 +1,14 @@
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\BNPP.Domain.dll
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\BNPP.Domain.pdb
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\AutoMapper.dll
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\Dapper.dll
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\AutoMapper.pdb
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\AutoMapper.xml
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\Dapper.xml
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\obj\Debug\BNPP.Domain.csproj.CoreCompileInputs.cache
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\obj\Debug\BNPP.Domain.csproj.CopyComplete
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\obj\Debug\BNPP.Domain.dll
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\obj\Debug\BNPP.Domain.pdb
+C:\PrivateWorkSpace\BNPP\BNPP.Domain\obj\Debug\BNPP.Domain.csprojAssemblyReference.cache
